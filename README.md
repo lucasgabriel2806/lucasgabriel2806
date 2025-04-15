@@ -14,11 +14,12 @@
   
   <a href="https://github.com/lucasgabriel2806">
 
-### Linguagens de estudo:
+### Aprendendo:
 
 <img align="center" alt="HTML5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="center" alt="CSS3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="center" alt="JS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <!-- <img align="center" alt="Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> -->
