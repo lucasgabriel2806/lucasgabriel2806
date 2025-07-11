@@ -32,9 +32,13 @@
 <img align="center" alt="Bootstrap" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 <img align="center" alt="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
 
+### Bibliotecas:
+
+<img align="center" alt="ReactJS" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>
+
 ### Banco de Dados
 
-<img align="center" alt="MySQL" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg"/>
+<img align="center" alt="ReactJS" height="60" width="60" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"/>
 
 <!-- <img align="center" alt="Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> -->
 <!-- <img align="center" alt="PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
