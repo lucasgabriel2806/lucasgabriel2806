@@ -32,6 +32,8 @@
 <img align="center" alt="Bootstrap" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 <img align="center" alt="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="center" alt="VueJS" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"/>
+<img align="center" alt="NextJS" height="60" width="60" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png"/>
+
 
 ### Bibliotecas:
 
