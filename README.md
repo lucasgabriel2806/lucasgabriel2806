@@ -1,66 +1,34 @@
-         
+<h1 align="center">Hello World 👋, I'm Lucas</h1>
+<h3 align="center">Looking for a job</h3>
 
-<div align="center">
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgabriel2806&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&text_color=FFFFFF&title_color=ffffff"/>
 
-  <a href="https://github.com/lucasgabriel2806">
-  
-  # Lucas Gabriel de Paula Pinto
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgabriel2806&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&text_color=FFFFFF&title_color=ffffff"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabriel2806&layout=compact&langs_count=7&theme=tokyonight&text_color=FFFFFF&title_color=ffffff"/>
-  
-  </a>
-  
-  ##
-  
-  <a href="https://github.com/lucasgabriel2806">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabriel2806&layout=compact&langs_count=7&theme=tokyonight&text_color=FFFFFF&title_color=ffffff"/> -->
 
-<!-- SIte onde peguei as imagens -->
-<!-- https://github.com/devicons/devicon/tree/v2.16.0/icons -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-
-### Linguagens:
-
-<img align="center" alt="HTML5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="center" alt="CSS3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="center" alt="JS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="php" height="80" width="80" src="https://github.com/lucasgabriel2806/img/blob/main/php.png" />
-<!-- <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> -->
-
-### Frameworks:
-
-<img align="center" alt="Bootstrap" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-<img align="center" alt="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="center" alt="VueJS" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"/>
-<img align="center" alt="NextJS" height="60" width="60" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png"/>
+</p>
 
 
-### Bibliotecas:
-
-<img align="center" alt="ReactJS" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>
-
-### Banco de Dados
-
-<img align="center" alt="ReactJS" height="60" width="60" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"/>
-
-<!-- <img align="center" alt="Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> -->
-<!-- <img align="center" alt="PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
-<!-- <img align="center" alt="Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/> -->
-<!-- <img align="center" alt="CSharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> -->
-<!-- <img align="center" alt="Net.Core" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> -->
-<!-- <img align="center" alt="Xamarin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg"/> -->
-
-</a>
-
-### Contato:
+<h3 align="left">Contact:</h3>
 
 <a href="https://wa.me/5514991776338"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
 <a href="https://instagram.com/lucasgabriel.2006" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:lucas.gabriellgpp@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://www.linkedin.com/in/lucas-gabriel-de-paula-pinto-065734241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
+
 </div>
 
 
